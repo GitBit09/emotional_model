@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+env/
+venv/
+
+# Data and models (optional - include if files are large)
+audio_RAVDESS/
+*.h5
+*.pkl
+
+# VS Code settings
+.vscode/
